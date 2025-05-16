@@ -1,0 +1,27 @@
+{
+    "id": "010C5ECE",
+    "path": "~/Documents/hadi_project/r_project/time_series_forecasting_learn/modeltime_cv_example_1.R",
+    "project_path": "modeltime_cv_example_1.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1747322533597.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "4,18",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1747332324,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1747332324571,
+    "read_only": false,
+    "read_only_alternatives": []
+}
